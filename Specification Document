@@ -1,0 +1,22 @@
+# P.I.-Works-U.I-Spec-Doc
+
+User Interface Design Document
+Version 1.0
+Prepared by: Egemen Öztürk
+
+1. Introduction
+The purpose of this document is to provide a complete description of the user interface that would-be part of the completed P.I. Works application.
+The main scope of this document is to:-
+•	Get a clear understanding on how user will transit between different activities.
+•	Get an overview of each interface design.
+To readers may wish to refer to software requirement specification sheet for further details on system functionalities.
+1.1	Reference
+The design in the document is created referencing the Internship questionnaire URL: https://forms.office.com/pages/responsepage.aspx?id=u_GdlraX70SRCNwYpf2WwvYohCkpZwFFqd7cr1VId_5UM0wwRzJNS1VQVThHUVVZOFlIUDAwWjlSQiQlQCN0PWcu
+
+2. UI designs
+2.1	User Screen
+
+
+User screen will have the managers to have an option to list all users by their ID, User Name, Email, Enabled Status, and they also sort these listings by alphabetical order. There is a functional navigation bar that allows managers to add new users, hide Disabled Users, and Save User. Adding new user requires brief information about the very new user. The necessary informations are, username, display name, phone number, personal e-mail, user’s role, and Enabled Status.
+
+This is the specification document for the user management screen's user interface. It provides the specifications, information about the UI components, how the website behaves while utilizing these components, what to display to the user first, etc. The software engineers that create this user interface will refer to this document.
